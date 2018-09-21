@@ -1,0 +1,9 @@
+using Example20182
+
+Example20182.greet()
+
+q=MPoint(1,2)
+@show q
+q.x=9
+@show q
+

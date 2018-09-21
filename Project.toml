@@ -1,0 +1,7 @@
+name = "Example20182"
+uuid = "08063d34-b84c-11e8-04ad-b5a4c35cc921"
+authors = ["Laura Sberna <laura92sb@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
